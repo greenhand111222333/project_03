@@ -1,0 +1,7 @@
+*.text
+
+!demo.text
+
+/Todo
+
+build/
